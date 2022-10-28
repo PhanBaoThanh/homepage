@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.cee24562.css",
+    "main.js": "/homepage/static/js/main.c9f00f86.js",
+    "static/media/dom12.webp": "/homepage/static/media/dom12.290fa2515426f5a8391e.webp",
+    "static/media/course9.webp": "/homepage/static/media/course9.f6bc41de66dc4f9b5ab6.webp",
+    "static/media/dom8.webp": "/homepage/static/media/dom8.46d2bcbb711cbdd60f46.webp",
+    "static/media/course2.webp": "/homepage/static/media/course2.6968180804a72b921d96.webp",
+    "static/media/dom10.webp": "/homepage/static/media/dom10.556a191adb1fa2c835eb.webp",
+    "static/media/course7.webp": "/homepage/static/media/course7.4d8d27afc60442593a59.webp",
+    "static/media/course14.webp": "/homepage/static/media/course14.d1d32b6959495cd3cce4.webp",
+    "static/media/dom3.webp": "/homepage/static/media/dom3.8e4848a9d7b052ac6ff6.webp",
+    "static/media/course11.webp": "/homepage/static/media/course11.9573d971dfa0529e7fab.webp",
+    "static/media/course5.webp": "/homepage/static/media/course5.1da91e2c537e5f0e8073.webp",
+    "static/media/dom7.webp": "/homepage/static/media/dom7.7c57e9cd3fc8bebbc3a8.webp",
+    "static/media/course13.webp": "/homepage/static/media/course13.d752cb6d43f6291f995b.webp",
+    "static/media/dom15.webp": "/homepage/static/media/dom15.4eded2c25dbed06547d2.webp",
+    "static/media/course4.webp": "/homepage/static/media/course4.843976a23f6f93763a72.webp",
+    "static/media/course8.webp": "/homepage/static/media/course8.5417c9837b5f0023d51b.webp",
+    "static/media/dom6.webp": "/homepage/static/media/dom6.4a8f06de73955a2c24c5.webp",
+    "static/media/dom13.webp": "/homepage/static/media/dom13.fe9ce116b6023343ca9b.webp",
+    "static/media/course10.webp": "/homepage/static/media/course10.3f30db9becb0a615c27a.webp",
+    "static/media/dom5.webp": "/homepage/static/media/dom5.7754f055b304bb56a203.webp",
+    "static/media/dom14.webp": "/homepage/static/media/dom14.d4a0f2b4b6dc4607e7d4.webp",
+    "static/media/dom1.webp": "/homepage/static/media/dom1.6c766e1217dd8b4f2215.webp",
+    "static/media/course12.webp": "/homepage/static/media/course12.1678d9d66bef330efdbe.webp",
+    "static/media/dom11.webp": "/homepage/static/media/dom11.70f4a5bdff248c39a851.webp",
+    "static/media/dom2.webp": "/homepage/static/media/dom2.b36a5b960c95d6c2be0d.webp",
+    "static/media/dom4.webp": "/homepage/static/media/dom4.c7cceb58e8b77a868d86.webp",
+    "static/media/img.svg": "/homepage/static/media/img.b11f44eee3fb0e972b28da5823d66172.svg",
+    "static/media/dom9.webp": "/homepage/static/media/dom9.a3d1251c7b1834b11c89.webp",
+    "static/media/course6.webp": "/homepage/static/media/course6.ae659136927f4ad9e1d5.webp",
+    "static/media/course1.webp": "/homepage/static/media/course1.4262693ac3eee9e592bc.webp",
+    "static/media/course3.webp": "/homepage/static/media/course3.0eabda3daf8a5d052df1.webp",
+    "index.html": "/homepage/index.html",
+    "main.cee24562.css.map": "/homepage/static/css/main.cee24562.css.map",
+    "main.c9f00f86.js.map": "/homepage/static/js/main.c9f00f86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cee24562.css",
+    "static/js/main.c9f00f86.js"
+  ]
+}
