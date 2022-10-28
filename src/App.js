@@ -202,7 +202,7 @@ function App() {
           dom.map((item,index) => (
             <div className='item' key={index}>
               <div className='itemContent'>
-                <a href={item.link} className='itemContentLink'>
+                <a target='__blank' href={item.link} className='itemContentLink'>
                   <img src={item.img} alt='ptc' />
                   <div className='itemContentText'>{item.name}</div>
                 </a>
@@ -223,7 +223,7 @@ function App() {
           courses.map((item,index) => (
             <div className='item' key={index}>
               <div className='itemContent'>
-                <a href={item.link} className='itemContentLink'>
+                <a target='__blank' href={item.link} className='itemContentLink'>
                   <img src={item.img} alt='ptc' />
                   <div className='itemContentText'>{item.name}</div>
                 </a>
